@@ -1,0 +1,1 @@
+self.image = pygame.transform.scale(self.image, (100, 100))
